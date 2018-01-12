@@ -1,0 +1,2 @@
+# utl_splitting_a_five_column_sas_dataset_by_the_median_into_lower_and_upper_dataset
+Splitting a five column SAS dataset by the median into lower and upper dataset Keywords: sas sql join merge big data analytics macros oracle teradata mysql sas communities stackoverflow statistics artificial inteligence AI Python R Java Javascript WPS Matlab SPSS Scala Perl C C# Excel MS Access JSON graphics maps NLP natural language processing machine learning igraph DOSUBL DOW loop stackoverflow SAS community.
